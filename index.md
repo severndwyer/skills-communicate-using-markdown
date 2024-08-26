@@ -10,3 +10,7 @@ function sayHello(message) {
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
+
+*Is this itali?*
+
+**bold**
